@@ -1,0 +1,3 @@
+#!/bin/bash
+
+echo "513885780" | tee >(wl-copy)

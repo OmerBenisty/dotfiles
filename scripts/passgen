@@ -1,0 +1,1 @@
+pwgen -s -y -1 12 1 | tee >(wl-copy)
