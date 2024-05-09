@@ -1,0 +1,4 @@
+eyJ1cmwiOiAiaHR0cHM6Ly9ldWNlMS1zcGlrZS1pdC5zZW50aW5lbG9uZS5uZXQiLCAic2l0ZV9rZXkiOiAiZDNlNDY1YTNmYzMzMzI1MiJ9
+sudo curl -L "https://restart.servicedesk.atera.com/GetAgent/mac/003D000001E46WdIAJ/34" | sudo bash
+it@inmanage1.onmicrosoft.com
+vBhs4d#3ZQyb

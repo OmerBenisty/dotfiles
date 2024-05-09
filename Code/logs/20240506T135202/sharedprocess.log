@@ -1,0 +1,59 @@
+2024-05-06 13:52:04.389 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-05-06 13:52:04.410 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-05-06 13:52:04.452 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-05-06 13:52:04.453 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-05-06 13:52:04.469 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-05-06 13:52:04.514 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-05-06 13:52:04.625 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-05-06 13:52:04.684 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-05-06 13:52:04.724 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-05-06 13:52:04.777 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-05-06 13:52:04.813 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-05-06 13:52:04.842 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-05-06 13:52:04.911 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-05-06 13:52:04.979 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-05-06 13:52:05.042 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-05-06 13:52:06.518 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-05-06 13:52:06.578 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-05-06 13:52:06.584 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-05-06 13:52:07.250 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-05-06 13:52:07.273 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-05-06 13:52:08.712 [info] Getting Manifest... ms-python.debugpy
+2024-05-06 13:52:08.715 [info] Getting Manifest... ms-python.python
+2024-05-06 13:52:09.071 [info] Installing extension: ms-python.debugpy
+2024-05-06 13:52:09.073 [info] Installing extension: ms-python.python
+2024-05-06 13:52:09.122 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-05-06 13:52:09.125 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-05-06 13:52:09.155 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-05-06 13:52:09.181 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-05-06 13:52:09.630 [info] Getting Manifest... ms-python.python
+2024-05-06 13:52:09.655 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-05-06 13:52:09.661 [info] Waiting for already requested installing extension ms-python.python ms-python.debugpy
+2024-05-06 13:52:09.680 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-05-06 13:52:13.069 [info] Extension signature verification result for ms-python.python: Success. Duration: 1335ms.
+2024-05-06 13:52:13.070 [info] Extension signature verification result for ms-python.debugpy: Success. Duration: 1368ms.
+2024-05-06 13:52:13.378 [info] Extracted extension to file:///home/angel/.vscode/extensions/ms-python.debugpy-2024.6.0-linux-x64: ms-python.debugpy
+2024-05-06 13:52:13.383 [info] Renamed to /home/angel/.vscode/extensions/ms-python.debugpy-2024.6.0-linux-x64
+2024-05-06 13:52:13.387 [info] Extracting extension completed. ms-python.debugpy
+2024-05-06 13:52:13.395 [info] Marked extension as uninstalled ms-python.debugpy-2024.4.0-linux-x64
+2024-05-06 13:52:13.468 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/angel/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/angel/.vscode/extensions/extensions.json.vsctmp'
+    at a.create (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30019)
+    at b (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30130)
+    at t.hb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36600)
+    at t.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:29040)
+    at async $.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:16186)
+    at async J.sb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:109501)
+2024-05-06 13:52:13.966 [info] Extracted extension to file:///home/angel/.vscode/extensions/ms-python.python-2024.6.0: ms-python.python
+2024-05-06 13:52:13.971 [info] Renamed to /home/angel/.vscode/extensions/ms-python.python-2024.6.0
+2024-05-06 13:52:13.975 [info] Extracting extension completed. ms-python.python
+2024-05-06 13:52:13.990 [info] Extension installed successfully: ms-python.python
+2024-05-06 13:52:13.990 [info] Finished waiting for already requested installing extension ms-python.python ms-python.debugpy
+2024-05-06 13:52:13.991 [info] Extension installed successfully: ms-python.debugpy
+2024-05-06 13:52:13.997 [info] Marked extension as uninstalled ms-python.python-2024.4.1
+2024-05-06 13:52:14.071 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/angel/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/angel/.vscode/extensions/extensions.json.vsctmp'
+    at a.create (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30019)
+    at b (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30130)
+    at t.hb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36600)
+    at t.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:29040)
+    at async $.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:16186)
+    at async J.sb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:109501)

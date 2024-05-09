@@ -1,0 +1,12 @@
+#!/bin/bash
+
+# Define color codes
+BLUE='\033[0;36m'
+NC='\033[0m' # No Color
+
+if [$# -eq 0]; then
+    echo -e "Usage: iam [${BLUE}Command${NC}]\n\nAvaliable commands:\n\n${BLUE}scan\t\t${NC}Scan iam users and opens a list of them\n${BLUE}list\t\t${NC}Open the iam users list
+python "/home/angel/PyCharm/iam user scanner/main.py"
+code "/home/angel/PyCharm/iam user scanner/iam_users_list.txt"
+
+

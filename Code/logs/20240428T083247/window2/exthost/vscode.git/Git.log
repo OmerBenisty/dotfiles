@@ -1,0 +1,27 @@
+2024-04-28 08:50:54.416 [info] Log level: Info
+2024-04-28 08:50:54.416 [info] Validating found git in: "git"
+2024-04-28 08:50:54.416 [info] Using git "2.44.0" from "git"
+2024-04-28 08:51:01.331 [info] Log level: Info
+2024-04-28 08:51:01.331 [info] Validating found git in: "git"
+2024-04-28 08:51:01.331 [info] Using git "2.44.0" from "git"
+2024-04-28 08:51:01.331 [info] > git rev-parse --show-toplevel [2ms]
+2024-04-28 08:51:01.331 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-04-28 08:51:01.331 [info] > git rev-parse --show-toplevel [1ms]
+2024-04-28 08:51:01.331 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-04-28 08:51:01.331 [info] > git rev-parse --show-toplevel [11ms]
+2024-04-28 08:51:01.331 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-04-28 08:51:01.331 [info] > git rev-parse --show-toplevel [27ms]
+2024-04-28 08:51:01.331 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-04-28 08:51:01.335 [info] > git rev-parse --show-toplevel [1ms]
+2024-04-28 08:51:01.335 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-04-28 08:51:01.340 [info] > git rev-parse --show-toplevel [1ms]
+2024-04-28 08:51:01.340 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-04-28 08:51:04.565 [info] > git rev-parse --show-toplevel [1ms]
+2024-04-28 08:51:04.565 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).

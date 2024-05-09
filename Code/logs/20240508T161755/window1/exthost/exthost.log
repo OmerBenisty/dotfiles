@@ -1,0 +1,21 @@
+2024-05-08 16:17:56.297 [info] Extension host with pid 479522 started
+2024-05-08 16:17:56.313 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-05-08 16:17:56.342 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-05-08 16:17:56.348 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-05-08 16:17:56.367 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-05-08 16:17:56.401 [info] Eager extensions activated
+2024-05-08 16:17:56.414 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-05-08 16:17:56.415 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-05-08 16:17:56.419 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-05-08 16:18:04.181 [info] Extension host terminating: renderer closed the MessagePort
+2024-05-08 16:18:04.200 [info] Extension host with pid 479522 exiting with code 0
+2024-05-08 16:18:04.864 [info] Extension host with pid 479700 started
+2024-05-08 16:18:04.865 [info] Skipping acquiring lock for /home/angel/.config/Code/User/workspaceStorage/3be6d89a93406585fd7fa29db7eb73e5.
+2024-05-08 16:18:04.892 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-05-08 16:18:04.905 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-05-08 16:18:04.925 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-05-08 16:18:04.982 [info] Eager extensions activated
+2024-05-08 16:18:05.016 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-05-08 16:18:05.019 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-05-08 16:18:05.025 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-05-08 16:18:10.467 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'

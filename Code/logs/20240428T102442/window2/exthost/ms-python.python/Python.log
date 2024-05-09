@@ -1,0 +1,21 @@
+2024-04-28 10:24:44.231 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-04-28 10:24:44.231 [info] Experiment 'pythonREPLSmartSend' is active
+2024-04-28 10:24:44.231 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-04-28 10:24:44.231 [info] Experiment 'pythonTestAdapter' is active
+2024-04-28 10:24:44.231 [info] Default formatter is set to null for workspace /home/angel/PyCharm
+2024-04-28 10:24:44.231 [info] Test server listening.
+2024-04-28 10:24:44.231 [info] Python interpreter path: /bin/python
+2024-04-28 10:24:44.242 [info] > pyenv which python
+2024-04-28 10:24:44.242 [info] cwd: .
+2024-04-28 10:24:45.354 [info] Starting Pylance language server.
+2024-04-28 10:25:28.806 [info] Send text to terminal:  /bin/python /home/angel/.vscode/extensions/ms-python.debugpy-2024.4.0-linux-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 57123 -- /home/angel/PyCharm/imperva\ reports/main.py 
+2024-04-28 10:27:43.079 [info] Discover tests for workspace name: PyCharm - uri: /home/angel/PyCharm/imperva reports/main.py
+2024-04-28 10:27:44.322 [info] Send text to terminal: 
+2024-04-28 10:27:44.322 [info] Send text to terminal:  cd /home/angel/PyCharm ; /bin/python /home/angel/.vscode/extensions/ms-python.debugpy-2024.4.0-linux-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 53391 -- /home/angel/PyCharm/imperva\ reports/main.py 
+2024-04-28 10:28:51.627 [info] Send text to terminal: 
+2024-04-28 10:28:51.627 [info] Send text to terminal:  cd /home/angel/PyCharm ; /bin/python /home/angel/.vscode/extensions/ms-python.debugpy-2024.4.0-linux-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 44925 -- /home/angel/PyCharm/imperva\ reports/main.py 
+2024-04-28 10:28:51.709 [info] Discover tests for workspace name: PyCharm - uri: /home/angel/PyCharm/imperva reports/main.py
+2024-04-28 10:29:33.217 [info] Send text to terminal: 
+2024-04-28 10:29:33.217 [info] Send text to terminal:  cd /home/angel/PyCharm ; /bin/python /home/angel/.vscode/extensions/ms-python.debugpy-2024.4.0-linux-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 60177 -- /home/angel/PyCharm/imperva\ reports/main.py 
+2024-04-28 10:29:33.295 [info] Discover tests for workspace name: PyCharm - uri: /home/angel/PyCharm/imperva reports/main.py
+2024-04-28 10:29:47.492 [info] Discover tests for workspace name: PyCharm - uri: /home/angel/PyCharm/imperva reports/main.py

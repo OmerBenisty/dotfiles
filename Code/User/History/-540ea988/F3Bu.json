@@ -1,0 +1,22 @@
+{
+    "workbench.colorTheme": "2077",
+    "workbench.startupEditor": "none",
+    "security.workspace.trust.untrustedFiles": "open",
+    "files.hotExit": "off",
+    "window.menuBarVisibility": "toggle",
+    "editor.tokenColorCustomizations": {
+        "[2077]": {
+            "textMateRules": [
+                {
+                    "scope": [
+                        // For functions
+                        "meta.function-call.generic.python"
+                    ],
+                    "settings": {
+                        "foreground": "#ff00f7" // Another example color
+                    }
+                }
+            ]
+        }
+    }
+}

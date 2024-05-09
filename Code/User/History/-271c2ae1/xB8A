@@ -1,0 +1,30 @@
+#!/bin/bash
+
+# Define color codes
+YELLOW='\033[0;36m'
+NC='\033[0m' # No Color
+
+# Check if argument is provided
+if [[ $# == 0 ]]; then
+    echo -e "Usage: connect [${YELLOW}Machine${NC}]\n\nAvaliable machines:\n\n${YELLOW}piba\t\t${NC}population and immigration authority\n${YELLOW}pibabackup\t${NC}backup machine for piba\n${YELLOW}dc\t\t${NC}windows domain controller inmanage.local"
+    exit 1
+fi
+
+# Perform different actions based on the argument
+case "$1" in
+    piba)
+	    remmina -c /home/angel/.local/share/remmina/group_rdp_piba_172-16-31-47.remmina
+        ;;
+    dc)
+	    remmina -c /home/angel/.local/share/remmina/group_rdp_dc_172-16-32-214.remmina
+        ;;
+    pibabackup)
+	    remmina -c /home/angel/.local/share/remmina/group_rdp_piba-backup_172-16-31-247.remmina
+        ;;
+    *)
+	    echo -e "Usage: connect [${YELLOW}Machine${NC}]\n\nAvaliable machines:\n\n${YELLOW}piba\t\t${NC}population and immigration auion authority\n${YELLOW}pibabackup\t${NC}backup machine for piba\n${YELLOW}dc\t\t${NC}windows domain controller inmanage.local"
+        exit 1
+        ;;
+esac
+
+exit 0

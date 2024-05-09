@@ -1,0 +1,15 @@
+2024-04-28 08:51:01.697 [info] (Client) Pylance async client (2024.4.1) started with python extension (2024.4.1)
+2024-04-28 08:51:02.136 [info] [Info  - 8:51:02 AM] (321589) Pylance language server 2024.4.1 (pyright version 1.1.356, commit 6652c4a8) starting
+2024-04-28 08:51:02.136 [info] [Info  - 8:51:02 AM] (321589) Server root directory: file:///home/angel/.vscode/extensions/ms-python.vscode-pylance-2024.4.1/dist
+2024-04-28 08:51:02.140 [info] [Info  - 8:51:02 AM] (321589) Starting service instance "PyCharm"
+2024-04-28 08:51:02.176 [info] [Info  - 8:51:02 AM] (321589) Setting pythonPath for service "PyCharm": "/bin/python"
+2024-04-28 08:51:02.177 [info] [Info  - 8:51:02 AM] (321589) Setting environmentName for service "PyCharm": "3.12.2 (global)"
+2024-04-28 08:51:02.200 [info] [Info  - 8:51:02 AM] (321589) Assuming Python version 3.12.2.final.0
+2024-04-28 08:51:02.253 [info] [Info  - 8:51:02 AM] (321589) Found 4 source files
+2024-04-28 08:51:02.660 [info] [Info  - 8:51:02 AM] (321589) Indexer background runner(2) root directory: file:///home/angel/.vscode/extensions/ms-python.vscode-pylance-2024.4.1/dist (index)
+2024-04-28 08:51:02.660 [info] [Info  - 8:51:02 AM] (321589) Indexing(2) started
+2024-04-28 08:51:02.706 [info] [Info  - 8:51:02 AM] (321589) Background analysis(1) root directory: file:///home/angel/.vscode/extensions/ms-python.vscode-pylance-2024.4.1/dist
+2024-04-28 08:51:02.708 [info] [Info  - 8:51:02 AM] (321589) Background analysis(1) started
+2024-04-28 08:51:03.172 [info] [Info  - 8:51:03 AM] (321589) scanned(2) 233 files over 1 exec env
+2024-04-28 08:51:04.259 [info] [Info  - 8:51:04 AM] (321589) indexed(2) 134 files over 1 exec env
+2024-04-28 08:51:04.360 [info] [Info  - 8:51:04 AM] (321589) Indexing finished(2).

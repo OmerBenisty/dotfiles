@@ -1,0 +1,2 @@
+2024-04-24 11:12:54.631 [info] Initial editor state {"filesToOpenOrCreate":[{"fileUri":{"$mid":1,"path":"/run/user/1000/gvfs/smb-share:server=inmanage-qnap.local,share=installation/file.txt","scheme":"file"},"type":1,"exists":true,"options":{}}],"filesToDiff":[],"filesToMerge":[]}
+2024-04-24 11:12:55.096 [info] Started local extension host with pid 38235.

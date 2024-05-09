@@ -1,0 +1,30 @@
+2024-04-28 08:50:54.057 [info] Started local extension host with pid 321409.
+2024-04-28 08:50:56.683 [info] [perf] Render performance baseline is 28ms
+2024-04-28 08:50:57.224 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-04-28 08:51:00.316 [info] Started local extension host with pid 321500.
+2024-04-28 08:51:02.847 [info] [perf] Render performance baseline is 33ms
+2024-04-28 08:51:03.379 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-04-28 08:52:56.706 [error] Invalid debug adapter: Error: Invalid debug adapter
+    at i.p (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1900:95)
+    at i.$acceptDAExit (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1900:35)
+    at f.S (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1623:13952)
+    at f.Q (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1623:13718)
+    at f.M (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1623:12811)
+    at f.L (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1623:12029)
+    at u.value (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1623:10677)
+    at n.y (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:89:659)
+    at n.fire (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:89:876)
+    at s.fire (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:628:14518)
+    at q.onmessage (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1641:7954)
+2024-04-28 08:52:56.706 [error] Invalid debug adapter: Error: Invalid debug adapter
+    at i.p (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1900:95)
+    at i.$acceptDAError (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1899:15562)
+    at f.S (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1623:13952)
+    at f.Q (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1623:13718)
+    at f.M (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1623:12811)
+    at f.L (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1623:11890)
+    at u.value (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1623:10677)
+    at n.y (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:89:659)
+    at n.fire (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:89:876)
+    at s.fire (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:628:14518)
+    at q.onmessage (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1641:7954)

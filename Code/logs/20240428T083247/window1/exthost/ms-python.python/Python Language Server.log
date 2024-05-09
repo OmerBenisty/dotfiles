@@ -1,0 +1,36 @@
+2024-04-28 08:32:50.230 [info] (Client) Pylance async client (2024.4.1) started with python extension (2024.4.1)
+2024-04-28 08:32:51.047 [info] [Info  - 8:32:51 AM] (315037) Pylance language server 2024.4.1 (pyright version 1.1.356, commit 6652c4a8) starting
+2024-04-28 08:32:51.047 [info] [Info  - 8:32:51 AM] (315037) Server root directory: file:///home/angel/.vscode/extensions/ms-python.vscode-pylance-2024.4.1/dist
+2024-04-28 08:32:51.054 [info] [Info  - 8:32:51 AM] (315037) Starting service instance "imperva reports"
+2024-04-28 08:32:51.067 [info] [Info  - 8:32:51 AM] (315037) Starting service instance "mcdonalds report"
+2024-04-28 08:32:51.070 [info] [Info  - 8:32:51 AM] (315037) Starting service instance "meshulam report"
+2024-04-28 08:32:51.172 [info] [Info  - 8:32:51 AM] (315037) Setting pythonPath for service "imperva reports": "/bin/python"
+2024-04-28 08:32:51.173 [info] [Info  - 8:32:51 AM] (315037) Setting environmentName for service "imperva reports": "3.12.2 (global)"
+2024-04-28 08:32:51.230 [info] [Info  - 8:32:51 AM] (315037) Assuming Python version 3.12.2.final.0
+2024-04-28 08:32:51.371 [info] [Info  - 8:32:51 AM] (315037) Found 1 source file
+2024-04-28 08:32:51.379 [info] [Info  - 8:32:51 AM] (315037) Setting pythonPath for service "mcdonalds report": "/bin/python"
+2024-04-28 08:32:51.380 [info] [Info  - 8:32:51 AM] (315037) Setting environmentName for service "mcdonalds report": "3.12.2 (global)"
+2024-04-28 08:32:51.440 [info] [Info  - 8:32:51 AM] (315037) Assuming Python version 3.12.2.final.0
+2024-04-28 08:32:51.530 [info] [Info  - 8:32:51 AM] (315037) Found 1 source file
+2024-04-28 08:32:51.538 [info] [Info  - 8:32:51 AM] (315037) Setting pythonPath for service "meshulam report": "/bin/python"
+2024-04-28 08:32:51.539 [info] [Info  - 8:32:51 AM] (315037) Setting environmentName for service "meshulam report": "3.12.2 (global)"
+2024-04-28 08:32:51.635 [info] [Info  - 8:32:51 AM] (315037) Assuming Python version 3.12.2.final.0
+2024-04-28 08:32:51.686 [info] [Info  - 8:32:51 AM] (315037) Found 1 source file
+2024-04-28 08:32:52.294 [info] [Info  - 8:32:52 AM] (315037) Background analysis(3) root directory: file:///home/angel/.vscode/extensions/ms-python.vscode-pylance-2024.4.1/dist
+2024-04-28 08:32:52.299 [info] [Info  - 8:32:52 AM] (315037) Background analysis(3) started
+2024-04-28 08:32:52.301 [info] [Info  - 8:32:52 AM] (315037) Background analysis(1) root directory: file:///home/angel/.vscode/extensions/ms-python.vscode-pylance-2024.4.1/dist
+2024-04-28 08:32:52.304 [info] [Info  - 8:32:52 AM] (315037) Background analysis(2) root directory: file:///home/angel/.vscode/extensions/ms-python.vscode-pylance-2024.4.1/dist
+2024-04-28 08:32:52.307 [info] [Info  - 8:32:52 AM] (315037) Background analysis(1) started
+2024-04-28 08:32:52.311 [info] [Info  - 8:32:52 AM] (315037) Background analysis(2) started
+2024-04-28 08:32:53.182 [info] [Info  - 8:32:53 AM] (315037) Indexer background runner(4) root directory: file:///home/angel/.vscode/extensions/ms-python.vscode-pylance-2024.4.1/dist (index)
+2024-04-28 08:32:53.183 [info] [Info  - 8:32:53 AM] (315037) Indexing(4) started
+2024-04-28 08:32:54.414 [info] [Info  - 8:32:54 AM] (315037) scanned(4) 233 files over 1 exec env
+2024-04-28 08:32:55.624 [info] [Info  - 8:32:55 AM] (315037) [BG(2)] Long operation: checking: file:///home/angel/PyCharm/mcdonalds%20report/Main.py (2489ms)
+2024-04-28 08:32:55.624 [info] [Info  - 8:32:55 AM] (315037) [BG(2)] Long operation: analyzing: file:///home/angel/PyCharm/mcdonalds%20report/Main.py (2490ms)
+2024-04-28 08:32:56.126 [info] [Info  - 8:32:56 AM] (315037) indexed(4) 134 files over 1 exec env
+2024-04-28 08:32:56.300 [info] [Info  - 8:32:56 AM] (315037) Indexing finished(4).
+2024-04-28 08:39:57.030 [info] [Info  - 8:39:57 AM] (315037) Indexer background runner(5) root directory: file:///home/angel/.vscode/extensions/ms-python.vscode-pylance-2024.4.1/dist (index)
+2024-04-28 08:39:57.030 [info] [Info  - 8:39:57 AM] (315037) Indexing(5) started
+2024-04-28 08:39:57.403 [info] [Info  - 8:39:57 AM] (315037) scanned(5) 233 files over 1 exec env
+2024-04-28 08:39:58.161 [info] [Info  - 8:39:58 AM] (315037) indexed(5) 134 files over 1 exec env
+2024-04-28 08:39:58.251 [info] [Info  - 8:39:58 AM] (315037) Indexing finished(5).

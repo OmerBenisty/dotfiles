@@ -1,0 +1,4 @@
+2024-04-25 10:08:03.698 [info] Initial editor state {"filesToOpenOrCreate":[{"fileUri":{"$mid":1,"path":"/run/user/1000/gvfs/smb-share:server=inmanage-qnap.local,share=installation/file.txt","scheme":"file"},"type":1,"exists":true,"options":{}}],"filesToDiff":[],"filesToMerge":[]}
+2024-04-25 10:08:04.136 [info] Started local extension host with pid 173488.
+2024-04-25 10:08:06.833 [info] [perf] Render performance baseline is 21ms
+2024-04-25 10:08:07.236 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
