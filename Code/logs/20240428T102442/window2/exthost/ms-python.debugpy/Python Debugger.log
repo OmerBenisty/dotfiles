@@ -1,6 +1,0 @@
-2024-04-28 10:24:44.266 [info] Name: Python Debugger
-2024-04-28 10:24:44.266 [info] Module: debugpy
-2024-04-28 10:25:27.451 [info] DAP Server launched with command: /bin/python /home/angel/.vscode/extensions/ms-python.debugpy-2024.4.0-linux-x64/bundled/libs/debugpy/adapter
-2024-04-28 10:27:44.209 [info] DAP Server launched with command: /bin/python /home/angel/.vscode/extensions/ms-python.debugpy-2024.4.0-linux-x64/bundled/libs/debugpy/adapter
-2024-04-28 10:28:51.512 [info] DAP Server launched with command: /bin/python /home/angel/.vscode/extensions/ms-python.debugpy-2024.4.0-linux-x64/bundled/libs/debugpy/adapter
-2024-04-28 10:29:33.101 [info] DAP Server launched with command: /bin/python /home/angel/.vscode/extensions/ms-python.debugpy-2024.4.0-linux-x64/bundled/libs/debugpy/adapter

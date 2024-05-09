@@ -1,4 +1,0 @@
-#!/bin/bash
-
-python "/home/angel/PyCharm/iam user scanner/main.py"
-code /home/angel/PyCharm/iam user scanner/iam_users_list.txt

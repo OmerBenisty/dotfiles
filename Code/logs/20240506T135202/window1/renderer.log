@@ -1,4 +1,0 @@
-2024-05-06 13:52:03.770 [info] Initial editor state {"filesToOpenOrCreate":[{"fileUri":{"$mid":1,"path":"/home/angel/PyCharm/iam user scanner/iam_users_list.txt","scheme":"file"},"type":1,"exists":true,"options":{}}],"filesToDiff":[],"filesToMerge":[]}
-2024-05-06 13:52:04.040 [info] Started local extension host with pid 82201.
-2024-05-06 13:52:04.236 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
-2024-05-06 13:52:07.041 [info] [perf] Render performance baseline is 33ms

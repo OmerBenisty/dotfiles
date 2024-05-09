@@ -1,6 +1,0 @@
-2024-05-08 16:16:55.737 [info] Started local extension host with pid 478348.
-2024-05-08 16:16:55.774 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
-2024-05-08 16:16:58.357 [info] [perf] Render performance baseline is 18ms
-2024-05-08 16:17:04.701 [info] Started local extension host with pid 478514.
-2024-05-08 16:17:07.282 [info] [perf] Render performance baseline is 30ms
-2024-05-08 16:17:07.793 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.

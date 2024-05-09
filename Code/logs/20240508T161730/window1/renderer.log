@@ -1,6 +1,0 @@
-2024-05-08 16:17:30.515 [info] Initial editor state {"filesToOpenOrCreate":[{"fileUri":{"$mid":1,"path":"/home/angel/Downloads/FortiGate-101F_6-4_2093_20240508060","scheme":"file"},"type":1,"exists":false}],"filesToDiff":[],"filesToMerge":[]}
-2024-05-08 16:17:30.825 [info] Started local extension host with pid 479000.
-2024-05-08 16:17:30.875 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
-2024-05-08 16:17:33.453 [info] [perf] Render performance baseline is 28ms
-2024-05-08 16:17:43.738 [warning] [backup tracker] suspended, ignoring dirty change event untitled:/home/angel/Downloads/FortiGate-101F_6-4_2093_20240508060 
-2024-05-08 16:17:43.752 [warning] [backup tracker] suspended, ignoring unregister event untitled:/home/angel/Downloads/FortiGate-101F_6-4_2093_20240508060 

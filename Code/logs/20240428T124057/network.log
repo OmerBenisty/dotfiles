@@ -1,2 +1,0 @@
-2024-04-28 13:19:48.592 [error] electron #23: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NAME_NOT_RESOLVED
-2024-04-28 13:19:51.339 [error] electron #24: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NAME_NOT_RESOLVED
